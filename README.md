@@ -201,7 +201,7 @@ Copy
         If the remote is not set, add it first:
         bash
         ```
-4. **API Documentaion**: -
+4. **API Documentation**: -
    Open a prject folder and search API-Documentation.text.
    Collapse
 
